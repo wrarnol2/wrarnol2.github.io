@@ -28,7 +28,7 @@ github_username:  wrarnol2
 
 # Build settings
 #theme: minimal-mistakes-jekyll
-remote_theme: "mmistakes/minimal-mistakes"
+remote_theme: "pmarsceill/just-the-docs"
 plugins:
   - jekyll-feed
   - jekyll-include-cache
