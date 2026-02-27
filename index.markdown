@@ -5,6 +5,5 @@
 layout: home
 title: Will's Test Site
 ---
-![logo](/files/cemc-logo-final.png)
 
 This is a test for Jekyll
